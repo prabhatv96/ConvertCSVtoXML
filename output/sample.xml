@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+    <Record>
+       <EmployeeID>1</EmployeeID>
+       <Name>A</Name>
+       <Age>100</Age>
+    </Record>
+    <Record>
+       <EmployeeID>2</EmployeeID>
+       <Name>B</Name>
+       <Age>100</Age>
+    </Record>
+</Employee>
